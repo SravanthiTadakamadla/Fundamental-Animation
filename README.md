@@ -1,1 +1,1 @@
-Beginner Animation using HTML,CSS and Flexbox
+Beginner Flexbox Animation using HTML,CSS and Javascript Navigates to another page
